@@ -1,5 +1,3 @@
-# CS-Website
-
-Steph Mil
+# Stephanie Milonas
 
 Welcome to my professional website!
