@@ -1,8 +1,8 @@
 # About Me
 
-I was born and raised in Virginia Beach, VA and graduated from Frank W. Cox High School in 2016. I studied Business Analytics and Finance at ODU and graduated in May 2020. I am currently a graduate student at ODU studying a Master of Science in Data Science and Analytics with a concentration in Business Intelligence and Analytics.In my free time I enjoy listening to music, traveling, and spending time with my family and friends. 
+  I was born and raised in Virginia Beach, VA and graduated from Frank W. Cox High School in 2016. I studied Business Analytics and Finance at ODU and graduated in May 2020. I am currently a graduate student at ODU studying a Master of Science in Data Science and Analytics with a concentration in Business Intelligence and Analytics.In my free time I enjoy listening to music, traveling, and spending time with my family and friends. 
 
-Throughout my undergrad at ODU, I was heavily involved in extraciricular activities. I was a member of Pi Beta Phi Fraternity where I served on the executive board. I was also a member of the Perry Honors College, Women's Lacrosse Cub, and the Business Analytics Club. I interned at Palladium Registered Investment Advisor LLC where I was able to learn first hand about the welath management industry and the stock market.
+  Throughout my undergrad at ODU, I was heavily involved in extraciricular activities. I was a member of Pi Beta Phi Fraternity where I served on the executive board. I was also a member of the Perry Honors College, Women's Lacrosse Cub, and the Business Analytics Club. I interned at Palladium Registered Investment Advisor LLC where I was able to learn first hand about the welath management industry and the stock market.
 
 ### Markdown
 
